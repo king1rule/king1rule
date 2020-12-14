@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Wardlight 
-- 🌱 I’m currently learning Data science & Machine learning
-- ⚡ Fun fact: Diogenes lived in a barrel. 
+🔭 I’m currently working on Wardlight 
+🌱 I’m currently learning Data science & Machine learning
+⚡ Fun fact: Diogenes lived in a barrel. 
 -->
