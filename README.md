@@ -16,7 +16,7 @@ Hi there 👋
 
 
 <a href="https://github.com/king1rule/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=king1rule&show_icons=true=true&hide_border=true&&count_private=true&include_all_commits=true&hide=contribs,prs&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=king1rule&show_icons=true=true&hide_border=true&&count_private=true&include_all_commits=true&hide=contribs,prs&theme=default" />
 </a>
 <a href="https://github.com/king1rule/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=king1rule&layout=compact&langs_count=8&hide=ruby" />
