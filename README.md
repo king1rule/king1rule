@@ -1,5 +1,7 @@
 Hi there 👋
 
+
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
@@ -18,7 +20,15 @@ a passionate self-taught Developer 🚀 from Norway.
 
 [kingyasin.com](http://kingyasin.com)                           
 
+📊 **This Week I Spent My Time On:**
 
+<!--START_SECTION:waka-->
+```text
+Python   15 hrs 42 mins   █████████████▓░░░░░░░░░░░   54.35 % 
+Javascript 5 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   35.48 % 
+
+```
+<!--END_SECTION:waka-->
 
 
 <a href="https://github.com/king1rule/github-readme-stats">
