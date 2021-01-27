@@ -4,7 +4,7 @@ Hi there 👋
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) | ![GitHub followers](https://img.shields.io/github/followers/king1rule?label=follow&logoColor=blue&style=social) | ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F1K1NG_1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) | ![GitHub followers](https://img.shields.io/github/followers/king1rule?label=follow&logoColor=blue&style=social) | ![twitter](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/1K1NG_1)
 
 
 
