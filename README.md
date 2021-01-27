@@ -11,7 +11,9 @@ Hi there 👋
 - 🌱 I’m currently learning Data science & Machine learning
 - ⚡ Fun fact: Diogenes lived in a barrel. 
 
-[kingyasin.com](http://kingyasin.com) | <img src="https://github.com/king1rule/king1rule/blob/main/undraw_developer_activity_bv83.svg" width="350">
+[kingyasin.com](http://kingyasin.com) 
+
+<img src="https://github.com/king1rule/king1rule/blob/main/undraw_developer_activity_bv83.svg" width="350">
 
 
 
