@@ -17,9 +17,9 @@ a passionate self-taught Developer 🚀 from Norway.
   
 
 - 🔭 I’m currently working on Wardlight.
-- 🌱 I’m currently learning Data science & Machine learning.  <img align="right" alt="GIF" src="https://github.com/king1rule/king1rule/blob/main/tinybot.svg" width="200" height="120" />
+- 🌱 I’m currently learning Data science & Machine learning.  
 
-- ⚡ Fun fact: Diogenes lived in a barrel. 
+- ⚡ Fun fact: Diogenes lived in a barrel. <br/> <img align="right" alt="GIF" src="https://github.com/king1rule/king1rule/blob/main/tinybot.svg" width="200" height="120" />
 
 [kingyasin.com](http://kingyasin.com)                           
 
