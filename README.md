@@ -13,6 +13,9 @@ a passionate self-taught Developer 🚀 from Norway.
 
  <img align="right" alt="GIF" src="https://github.com/king1rule/king1rule/blob/main/build-product.gif" width="500" height="420" />
  
+ <img align="right" alt="GIF" src=" https://github.com/king1rule/king1rule/blob/main/SAMPLE_PROJECT.svg" width="200" height="120" />
+
+  
 
 - 🔭 I’m currently working on Wardlight.
 - 🌱 I’m currently learning Data science & Machine learning.
