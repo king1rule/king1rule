@@ -20,6 +20,7 @@ a passionate self-taught Developer 🚀 from Norway.
 - 🌱 I’m currently learning Data science & Machine learning.  
 
 - ⚡ Fun fact: Diogenes lived in a barrel. <br/> <img align="right" alt="GIF" src="https://github.com/king1rule/king1rule/blob/main/tinybot.svg" width="200" height="120" />
+<br/>
 
 [kingyasin.com](http://kingyasin.com)                           
 
